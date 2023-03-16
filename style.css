@@ -14,7 +14,6 @@ th{
     background-color: #f6f7fb;
     border-top: 1px solid #e6e9ee;
     border-bottom: 1px solid #E6E9EE;
-
 }
 .img1{
     margin-right: 4px;
@@ -35,6 +34,22 @@ th{
     font-size: 20px;
     color: #000000;
     text-align: left;
+}
+
+.text2{
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    border-left: 1px solid #e6e9ee;
+}
+
+.text3{
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    border-right: 1px solid #e6e9ee;
 }
 
 
@@ -60,12 +75,19 @@ td{
     text-align: right;
     padding: 10px;
 }
+.number1{
+    border-right: none;
+    text-align: right;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
 
 .text{
     color: #000000;
     font-weight: 400;
     font-size: 20px;
     padding-left: 45px;
-
 }
 
